@@ -55,7 +55,7 @@ void quicksort(int arr[], int low, int high)
 }
 int main()
 {
-    int arr[] = {12, 45, 78, 2, 1, 6, 11, 457, 3};
+    int arr[] = {12, 45, 78, 2, 1, 6, 11, 47, 3};
     int size = sizeof(arr) / sizeof(arr[0]);
     printf("unSorted Array\n");
     printArray(arr, size);
